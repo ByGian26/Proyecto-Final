@@ -1,0 +1,18 @@
+body{
+    background-image: url(/img/imagenes/fondo.png);
+}
+
+.margen{  
+    display: block;
+    width: 35%;
+    border-radius: 100px;;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+}
